@@ -1,0 +1,16 @@
+{
+  "name": "super_randomizer_pack",
+  "version": "1.0.4",
+  "description": "This package allows you to create random male names, emails, and dates.",
+  "main": "super_randomizer_pack.js",
+  "scripts": {
+    "start": "node ./super_randomizer_pack.js"
+  },
+  "author": "shenlindao",
+  "license": "ISC",
+  "keywords": ["random", "randomizer"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shenlindao/super_randomizer_pack.git"
+  }
+}
